@@ -1,5 +1,5 @@
-# Windows Operation
-## Windows操作
+# Windows Shortcut Operation
+## Windows ショートカット 操作
 多く使うコマンドで文字を打って入力するという面倒な事を、ダブルクリックだけで起動できるバッチファイルを作成しました。
 ### システムのプロパティ画面を開くバッチファイル
 [start_control-sysdm.cpl.bat](start_control-sysdm.cpl.bat)    
