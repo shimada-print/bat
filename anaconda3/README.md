@@ -1,9 +1,9 @@
 # Anaconda3とはPythonでAI開発をリモートなどで出来る総合開発環境
 ### Anaconda3を日本語化するコマンド
-```py:日本語パックをインストール
+```python:日本語パックをインストール
 pip uninstall jupyterlab-language-pack-ja-JP
 ```
-```py:日本語パックをアンインストール
+```python:日本語パックをアンインストール
 pip install jupyterlab-language-pack-ja-JP
 ```
 ### Anaconda3のJupyterLabをクリックで起動できるスクリプト
